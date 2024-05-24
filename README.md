@@ -23,8 +23,12 @@ It takes text input from the user and returns the first 10 results matching the 
     ```bash
     python search_engine.py
     ```
-2. Enter your search query when prompted.
-3. View the top 10 results returned by the search engine.
+2. Enter the passphrase when prompted.
+    - **Note:** The passphrase is a whopping 132 characters long and is a delightful mix of small letters, numbers, and special characters.
+    - If you're thinking about brute-forcing it, we salute your adventurous spirit.
+    - Should you manage to crack it, please make a pull request and share your epic tale of bravery with us!
+3. Enter your search query when prompted.
+4. View the top 10 results returned by the search engine.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
